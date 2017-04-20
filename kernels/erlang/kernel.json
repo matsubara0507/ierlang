@@ -1,0 +1,6 @@
+{
+  "display_name": "Erlang",
+  "language": "erlang",
+  "argv": ["python", "/root/ierlang/erlangkernel.py", "-f", "{connection_file}"],
+  "codemirror_mode": "scheme"
+}
